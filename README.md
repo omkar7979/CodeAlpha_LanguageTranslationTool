@@ -1,10 +1,12 @@
 # CodeAlpha_LanguageTranslationTool
 
-## Task 1: Language Translation Tool
-This project translates text from one language to another using Google Translator API.
+## Features
+- User-friendly interface
+- Multiple language support
+- Real-time translation
+- Fast and accurate results
 
-Features:
-- Select source language
-- Select target language
-- Translate text
-- Copy translated text
+## Technologies Used
+- Python
+- Streamlit
+- Googletrans API
