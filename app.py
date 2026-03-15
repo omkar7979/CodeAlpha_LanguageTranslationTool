@@ -9,12 +9,12 @@ text = st.text_area("Enter text to translate")
 
 source = st.selectbox(
     "Source Language",
-    ["auto", "en", "hi", "mr", "fr", "de"]
+    ["auto", "English", "Hindi", "Marathi", "French"]
 )
 
 target = st.selectbox(
     "Target Language",
-    ["en", "hi", "mr", "fr", "de"]
+    ["English", "Hindi", "Marathi", "French"]
 )
 
 if st.button("Translate"):
